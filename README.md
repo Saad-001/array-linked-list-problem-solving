@@ -1,4 +1,4 @@
-1. First Problem :
+#First Problem :
 
 Given an integer array A with size N and an integer K,where 0< N, K <10^5 . Write a program for getting Kth minimum and Kth maximum number from the given array.
 
